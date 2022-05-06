@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+body{
+    margin: 0px;
+    background-color: #B1FBD9;
+}
+header{
+    background-image: linear-gradient(to bottom, #044E2C, #0CE985 );
+    padding: 20px;
+    
+}
+.h1head{
+    color: #0CE985;
+    text-align: center;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.479);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2em;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    
+}
+.h2head{
+    text-align: center;
+    margin: 0px;
+    font-size: 1.7em;
+    
+}
+.imagem{
+    border-radius: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+}
+nav{
+    padding: 2px;
+    margin-top: 20px;
+    text-align: right;
+}
+nav > a{
+    text-decoration: none;
+    color:#1C5C2B ;
+    font-size: 18px;
+    padding: 10px;
+    border-radius: 5px;
+    font-weight: bold;
+    transition-duration: .5s;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.445);
+}
+nav > a:hover {
+    background-color: #1d662ea4;
+    color: white;
+}
+main{
+    min-width: 300px;
+    max-width: 900px;
+    background-color: white;
+    margin: auto;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    box-shadow: 0px 1px 1px 1px rgba(0, 0, 0, 0.5);
+}
+h1{
+    
+}
+.h2corpo{
+    padding-left: 10px;
+    padding-bottom: 10px;
+    margin: 0px;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.445);
+    color: #1C5C2B;
+    text-align: center;
+    
+}
+p{
+padding-left: 10px;
+padding-right: 10px;
+text-indent: 30px;
+text-align: justify;
+}
+.licorpo{
+padding-bottom: 10px;
+}
