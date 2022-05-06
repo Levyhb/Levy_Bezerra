@@ -81,3 +81,9 @@ text-align: justify;
 .licorpo{
 padding-bottom: 10px;
 }
+.licorpoA{
+    padding-bottom: 10px;
+}
+.ulcorpo{
+columns: 2;
+}
