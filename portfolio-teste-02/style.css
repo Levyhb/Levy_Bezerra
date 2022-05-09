@@ -1,0 +1,134 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    margin: 0px;
+    background-color: #B1FBD9;
+}
+header{
+    background-image: linear-gradient(to bottom, #044E2C, #0CE985 );
+    padding: 10px;
+}
+.imagem{
+    border-radius: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+}
+.h1head{
+    
+    text-align: center;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.479);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5em;
+    
+    
+}
+.h2head{
+    text-align: center;
+    margin-bottom: 10px;
+    font-size: 2em;
+    color: #0CE985;
+}
+nav{
+    padding: 2px;
+    margin-top: 20px;
+    text-align: right;
+    margin-bottom: 0px;
+}
+nav > a{
+    text-decoration: none;
+    color:#1C5C2B ;
+    font-size: 18px;
+    padding: 10px;
+    border-radius: 5px;
+    font-weight: bold;
+    transition-duration: 0.5s;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.445);
+}
+nav > a:hover {
+    background-color: #1d662ea4;
+    color: white;
+}
+.div-main{
+    background-color: rgb(130, 252, 99);
+    min-width: 200px;
+    max-width: 500px;
+    box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.486);
+    padding: 10px;
+    border-radius: 10px;
+}
+#sobremim{
+    margin-top: 20px;
+    margin-left: 50px;
+}
+p{
+    text-align: justify;
+    text-indent: 20px;
+}
+
+.h2corpo{
+padding: 10px 5px;
+color: #044E2C;
+font-weight: bolder;
+}
+
+#comp{
+    margin-left: 53%;
+    margin-top: 20px;
+}
+
+.ulcorpo{
+    padding: 10px;
+    margin-left: 10px;
+}
+
+#tecnologias{
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.ulcorpo > li{
+    padding: 5px;
+}
+
+#contato{
+    margin-left: 53%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#curiosidades{
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    height: 40px;
+    overflow: hidden;
+}
+#curiosidades:hover{
+    overflow: visible;
+    height: auto;
+}
+
+footer{
+    margin-top: 0px;
+    padding: 1px;
+    text-align: center;
+    background-color: #044E2C;
+    
+}
+
+footer > a {
+    text-decoration: none;
+    color: white;
+}
+
+footer >a:hover{
+    text-decoration: underline;
+    font-weight: bolder;
+}
+span{
+    font-size: 12px;
+}
