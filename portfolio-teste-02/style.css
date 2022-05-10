@@ -74,7 +74,7 @@ nav > a:hover {
 
 .div-main{
     background-color: rgb(130, 252, 99);
-    min-width: 180px;
+    min-width: 160px;
     max-width: 700px;
     box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.486);
     padding: 10px;
@@ -88,20 +88,21 @@ nav > a:hover {
 p{
     text-align: justify;
     text-indent: 20px;
-    font-size: 18px;
+    font-size: 1.1em;
 }
 
 .h2corpo{
-padding: 10px 5px;
+padding: 10px 2px;
 color: #044E2C;
 font-weight: bolder;
-font-size: 1.8em;
+font-size: 1.7em;
 }
 
 #comp{
     margin-right: 25px;
     margin-left: 53%;
     margin-top: 20px;
+    
 }
 
 .ulcorpo{
@@ -112,7 +113,7 @@ font-size: 1.8em;
 #tecnologias{
     margin-left: 50px;
     margin-top: 20px;
-    margin-right: auto;
+    margin-right: 25px;
 }
 
 .ulcorpo > li{
